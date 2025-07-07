@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on exciting **web and backend** projects  
 - 🌱 I’m mastering **ASP.NET Core, Entity Framework & SQL Server**  
 - 💡 I love building dynamic and responsive UIs with **HTML, CSS, JavaScript, and Bootstrap**
-- 📫 How to reach me: **[Instagram](https://www.instagram.com/isak_c.s/)**  
+- 📫 How to reach me: **[Linkedin](www.linkedin.com/in/isaac-cabrera-silverio-2460b62a8)**  
 - 💬 Ask me about: `C#`, `SQL`, `JavaScript`, `ASP.NET`, `APIs`, `Git`, `Visual Studio`
 
 ---
@@ -35,8 +35,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsakUserName&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsakUserName&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Isak1956x&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isak1956x&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
