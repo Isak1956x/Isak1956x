@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on exciting **web and backend** projects  
 - 🌱 I’m mastering **ASP.NET Core, Entity Framework & SQL Server**  
 - 💡 I love building dynamic and responsive UIs with **HTML, CSS, JavaScript, and Bootstrap**
-- 📫 How to reach me: **[Linkedin]((https://www.linkedin.com/in/isaac-cabrera-silverio-2460b62a8)**  
+- 📫 How to reach me: **[Instagram](https://www.linkedin.com/in/isaac-cabrera-silverio-2460b62a8)**    
 - 💬 Ask me about: `C#`, `SQL`, `JavaScript`, `ASP.NET`, `APIs`, `Git`, `Visual Studio`
 
 ---
