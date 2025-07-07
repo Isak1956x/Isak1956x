@@ -2,7 +2,8 @@
 <h3 align="center">💻 Full Stack Developer | Web & Software Enthusiast 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Frontend%20Lover%20❤️;Backend%20Explorer%20🧠;Always%20Learning%20📚;C%23%20%7C%20SQL%20%7C%20JS%20Fanatic%20⚙️&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Frontend+Lover+❤️;Backend+Explorer+🧠;C%23%2C+SQL+and+JS+Fanatic+⚙️;Always+Learning+📚" alt="Typing SVG" />
+
 </p>
 
 ---
